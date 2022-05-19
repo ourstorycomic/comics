@@ -69,8 +69,8 @@ var COMIC_LIST = {
 				{"url": "63.png"},
 				{"url": "64.png"},
 			]
-		}, "nich": {
-			"base_url": "comics/nich/",
+		}, "melodiesoflove": {
+			"base_url": "comics/inescapable/",
 			"pages": [
 				{"url": "00000.jpg"},
 				{"url": "1.jpg"},
